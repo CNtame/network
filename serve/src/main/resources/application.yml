@@ -1,1 +1,4 @@
 
+socket:
+  server:
+    port: 55533

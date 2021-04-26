@@ -1,5 +1,6 @@
 package com.learn.serve.socketPractice;
 
+import javax.annotation.Resource;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.UnsupportedEncodingException;
@@ -13,7 +14,10 @@ import java.nio.charset.StandardCharsets;
  * @description
  * @createDate 2021/4/25
  */
-public class Server {
+public class SocketServer {
+
+
+
 
 
     public static void main(String[] args) {
